@@ -13,6 +13,9 @@ namespace ConsoleApp1
 
             Console.WriteLine("Hello!");
 
+            Spaceship ship = new Spaceship();
+            ship.name = "Nostromo";
+
         }
     }
 }
